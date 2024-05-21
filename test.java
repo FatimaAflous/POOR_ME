@@ -2,7 +2,7 @@ public class Test {
     private int a;
     private string nom;
     public Test() {
-        a = 2; 
+        a = 3; 
         nom = "fatima";
     }
 }
