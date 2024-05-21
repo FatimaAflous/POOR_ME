@@ -3,6 +3,6 @@ public class Test {
     private string nom;
     public Test() {
         a = 3; 
-        nom = "fatima";
+        nom = "fatima1";
     }
 }
