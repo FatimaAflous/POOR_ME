@@ -1,3 +1,6 @@
-private String a;
-a="fatima";
-println(a);
+public class Exemple {
+    public static void main(String[] args) {
+        String a = "fatima";
+        System.out.println(a);
+    }
+}
